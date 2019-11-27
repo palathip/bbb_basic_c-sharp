@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Bconsole\1-Basic\bin\Debug\netcoreapp3.0\1-Basic.exe
+C:\Users\User\source\repos\Bconsole\1-Basic\bin\Debug\netcoreapp3.0\1-Basic.deps.json
+C:\Users\User\source\repos\Bconsole\1-Basic\bin\Debug\netcoreapp3.0\1-Basic.runtimeconfig.json
+C:\Users\User\source\repos\Bconsole\1-Basic\bin\Debug\netcoreapp3.0\1-Basic.runtimeconfig.dev.json
+C:\Users\User\source\repos\Bconsole\1-Basic\bin\Debug\netcoreapp3.0\1-Basic.dll
+C:\Users\User\source\repos\Bconsole\1-Basic\bin\Debug\netcoreapp3.0\1-Basic.pdb
+C:\Users\User\source\repos\Bconsole\1-Basic\obj\Debug\netcoreapp3.0\1-Basic.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Bconsole\1-Basic\obj\Debug\netcoreapp3.0\1-Basic.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Bconsole\1-Basic\obj\Debug\netcoreapp3.0\1-Basic.AssemblyInfo.cs
+C:\Users\User\source\repos\Bconsole\1-Basic\obj\Debug\netcoreapp3.0\1-Basic.dll
+C:\Users\User\source\repos\Bconsole\1-Basic\obj\Debug\netcoreapp3.0\1-Basic.pdb

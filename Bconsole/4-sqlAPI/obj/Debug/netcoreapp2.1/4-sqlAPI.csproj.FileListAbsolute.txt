@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Bconsole\4-sqlAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\User\source\repos\Bconsole\4-sqlAPI\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\User\source\repos\Bconsole\4-sqlAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\User\source\repos\Bconsole\4-sqlAPI\bin\Debug\netcoreapp2.1\4-sqlAPI.deps.json
+C:\Users\User\source\repos\Bconsole\4-sqlAPI\bin\Debug\netcoreapp2.1\4-sqlAPI.runtimeconfig.json
+C:\Users\User\source\repos\Bconsole\4-sqlAPI\bin\Debug\netcoreapp2.1\4-sqlAPI.runtimeconfig.dev.json
+C:\Users\User\source\repos\Bconsole\4-sqlAPI\bin\Debug\netcoreapp2.1\4-sqlAPI.dll
+C:\Users\User\source\repos\Bconsole\4-sqlAPI\obj\Debug\netcoreapp2.1\4-sqlAPI.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Bconsole\4-sqlAPI\obj\Debug\netcoreapp2.1\4-sqlAPI.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\Bconsole\4-sqlAPI\obj\Debug\netcoreapp2.1\4-sqlAPI.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\Bconsole\4-sqlAPI\obj\Debug\netcoreapp2.1\4-sqlAPI.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Bconsole\4-sqlAPI\obj\Debug\netcoreapp2.1\4-sqlAPI.AssemblyInfo.cs
+C:\Users\User\source\repos\Bconsole\4-sqlAPI\obj\Debug\netcoreapp2.1\4-sqlAPI.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\Bconsole\4-sqlAPI\bin\Debug\netcoreapp2.1\4-sqlAPI.pdb
+C:\Users\User\source\repos\Bconsole\4-sqlAPI\obj\Debug\netcoreapp2.1\4-sqlAPI.dll
+C:\Users\User\source\repos\Bconsole\4-sqlAPI\obj\Debug\netcoreapp2.1\4-sqlAPI.pdb

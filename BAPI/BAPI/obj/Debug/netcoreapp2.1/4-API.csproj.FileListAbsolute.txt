@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\BAPI\BAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\User\source\repos\BAPI\BAPI\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\User\source\repos\BAPI\BAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\User\source\repos\BAPI\BAPI\bin\Debug\netcoreapp2.1\4-API.deps.json
+C:\Users\User\source\repos\BAPI\BAPI\bin\Debug\netcoreapp2.1\4-API.runtimeconfig.json
+C:\Users\User\source\repos\BAPI\BAPI\bin\Debug\netcoreapp2.1\4-API.runtimeconfig.dev.json
+C:\Users\User\source\repos\BAPI\BAPI\bin\Debug\netcoreapp2.1\4-API.dll
+C:\Users\User\source\repos\BAPI\BAPI\obj\Debug\netcoreapp2.1\4-API.csprojAssemblyReference.cache
+C:\Users\User\source\repos\BAPI\BAPI\obj\Debug\netcoreapp2.1\4-API.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\BAPI\BAPI\obj\Debug\netcoreapp2.1\4-API.AssemblyInfo.cs

@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Bconsole\3-SQL\obj\Debug\netcoreapp3.0\2-OOP.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Bconsole\3-SQL\obj\Debug\netcoreapp3.0\2-OOP.AssemblyInfo.cs
+C:\Users\User\source\repos\Bconsole\3-SQL\bin\Debug\netcoreapp3.0\2-OOP.exe
+C:\Users\User\source\repos\Bconsole\3-SQL\bin\Debug\netcoreapp3.0\2-OOP.deps.json
+C:\Users\User\source\repos\Bconsole\3-SQL\bin\Debug\netcoreapp3.0\2-OOP.runtimeconfig.json
+C:\Users\User\source\repos\Bconsole\3-SQL\bin\Debug\netcoreapp3.0\2-OOP.runtimeconfig.dev.json
+C:\Users\User\source\repos\Bconsole\3-SQL\bin\Debug\netcoreapp3.0\2-OOP.dll
+C:\Users\User\source\repos\Bconsole\3-SQL\bin\Debug\netcoreapp3.0\2-OOP.pdb
+C:\Users\User\source\repos\Bconsole\3-SQL\obj\Debug\netcoreapp3.0\2-OOP.dll
+C:\Users\User\source\repos\Bconsole\3-SQL\obj\Debug\netcoreapp3.0\2-OOP.pdb

@@ -1,0 +1,3 @@
+C:\Users\User\source\repos\Bconsole\3-SQL\bin\Debug\netcoreapp3.0\3-SQL.exe
+C:\Users\User\source\repos\Bconsole\3-SQL\obj\Debug\netcoreapp3.0\3-SQL.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Bconsole\3-SQL\obj\Debug\netcoreapp3.0\3-SQL.AssemblyInfo.cs

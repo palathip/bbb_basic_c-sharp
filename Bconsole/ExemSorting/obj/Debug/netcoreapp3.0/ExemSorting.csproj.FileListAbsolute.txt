@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Bconsole\ExemSorting\obj\Debug\netcoreapp3.0\ExemSorting.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Bconsole\ExemSorting\obj\Debug\netcoreapp3.0\ExemSorting.AssemblyInfo.cs
+C:\Users\User\source\repos\Bconsole\ExemSorting\bin\Debug\netcoreapp3.0\ExemSorting.exe
+C:\Users\User\source\repos\Bconsole\ExemSorting\bin\Debug\netcoreapp3.0\ExemSorting.deps.json
+C:\Users\User\source\repos\Bconsole\ExemSorting\bin\Debug\netcoreapp3.0\ExemSorting.runtimeconfig.json
+C:\Users\User\source\repos\Bconsole\ExemSorting\bin\Debug\netcoreapp3.0\ExemSorting.runtimeconfig.dev.json
+C:\Users\User\source\repos\Bconsole\ExemSorting\bin\Debug\netcoreapp3.0\ExemSorting.dll
+C:\Users\User\source\repos\Bconsole\ExemSorting\bin\Debug\netcoreapp3.0\ExemSorting.pdb
+C:\Users\User\source\repos\Bconsole\ExemSorting\obj\Debug\netcoreapp3.0\ExemSorting.dll
+C:\Users\User\source\repos\Bconsole\ExemSorting\obj\Debug\netcoreapp3.0\ExemSorting.pdb
+C:\Users\User\source\repos\Bconsole\ExemSorting\obj\Debug\netcoreapp3.0\ExemSorting.csprojAssemblyReference.cache

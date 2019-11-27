@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\BAPI\BAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\User\source\repos\BAPI\BAPI\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\User\source\repos\BAPI\BAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\User\source\repos\BAPI\BAPI\bin\Debug\netcoreapp2.1\BAPI.deps.json
+C:\Users\User\source\repos\BAPI\BAPI\bin\Debug\netcoreapp2.1\BAPI.runtimeconfig.json
+C:\Users\User\source\repos\BAPI\BAPI\bin\Debug\netcoreapp2.1\BAPI.runtimeconfig.dev.json
+C:\Users\User\source\repos\BAPI\BAPI\bin\Debug\netcoreapp2.1\BAPI.dll
+C:\Users\User\source\repos\BAPI\BAPI\bin\Debug\netcoreapp2.1\BAPI.pdb
+C:\Users\User\source\repos\BAPI\BAPI\obj\Debug\netcoreapp2.1\BAPI.csprojAssemblyReference.cache
+C:\Users\User\source\repos\BAPI\BAPI\obj\Debug\netcoreapp2.1\BAPI.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\BAPI\BAPI\obj\Debug\netcoreapp2.1\BAPI.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\BAPI\BAPI\obj\Debug\netcoreapp2.1\BAPI.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\BAPI\BAPI\obj\Debug\netcoreapp2.1\BAPI.AssemblyInfo.cs
+C:\Users\User\source\repos\BAPI\BAPI\obj\Debug\netcoreapp2.1\BAPI.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\BAPI\BAPI\obj\Debug\netcoreapp2.1\BAPI.dll
+C:\Users\User\source\repos\BAPI\BAPI\obj\Debug\netcoreapp2.1\BAPI.pdb

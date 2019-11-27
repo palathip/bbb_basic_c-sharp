@@ -1,0 +1,3 @@
+C:\Users\User\source\repos\Bconsole\Bconsole\bin\Debug\netcoreapp3.0\2.exe
+C:\Users\User\source\repos\Bconsole\Bconsole\obj\Debug\netcoreapp3.0\2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Bconsole\Bconsole\obj\Debug\netcoreapp3.0\2.AssemblyInfo.cs
